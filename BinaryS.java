@@ -22,7 +22,7 @@ public class BinaryS {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		BinaryS bs = new BinaryS();
-		int arr[] = {2,3,4,10,40};
+		int arr[] = {1,2,5,20,50};
 		int n = arr.length;
 		int x = 10;
 		int result = bs.binarySearch(arr, 0, n-1,x );
